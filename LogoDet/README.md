@@ -1,5 +1,5 @@
 ```python
-git clone https://github.com/jonathanyeetmon/logo-detection/
+git clone https://github.com/jonathanyeetmon/logo-detection/tree/main/LogoDet
 cd LogoDet
 pip install -r requirements.txt
 ```
