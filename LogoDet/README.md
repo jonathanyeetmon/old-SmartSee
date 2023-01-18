@@ -1,4 +1,4 @@
-
+```python
 git clone https://github.com/jonathanyeetmon/logo-detection/
 cd LogoDet
 pip install -r requirements.txt
