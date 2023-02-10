@@ -1,0 +1,25 @@
+#APP
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+#WEBSITE
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+
+#MODEL
+__pycache__/
